@@ -272,25 +272,6 @@ def f67():
 	plt.grid()
 	plt.show()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 '''cc= open("cc.csv", "a")
 	for row in cur:
 		cc.write(str(row[0]) +  '\n')
@@ -303,24 +284,6 @@ def f67():
 	print(marks)'''
 
 	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
